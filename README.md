@@ -10,6 +10,6 @@ SERVER-SIDE API'S
 
 Git Hub Repository Link:  https://github.com/Chris4562022/Weather-Dashboard.git   ( to be updated )
 
-Deployed Website link:  
+Deployed Website link:  https://chris4562022.github.io/Weather-Dashboard/ ( to be updated ) 
 
-**Read me is underconstruction
+**Readme is underconstruction
