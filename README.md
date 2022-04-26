@@ -8,7 +8,7 @@ CSS
 JAVASCRIPT
 SERVER-SIDE API'S
 
-Git Hub Repository Link:
+Git Hub Repository Link:  https://github.com/Chris4562022/Weather-Dashboard.git   ( to be updated )
 
 Deployed Website link:  
 
